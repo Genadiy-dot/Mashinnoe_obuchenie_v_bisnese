@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+
+# Jupiter notebook
+.ipynb_checkpoints/
+
+#dataset
+*.csv
+
 __pycache__/
 *.py[cod]
 *$py.class
